@@ -1,0 +1,17 @@
+{
+  "name": "tally-lines",
+  "version": "1.0.0",
+  "description": "CLI application to count the number of lines in a file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
